@@ -6,3 +6,8 @@ To declare a variable in JavaScript, you can use the var, let, or const keyword,
 var name = "John";  // declaring a variable called 'name' and assigning it the value "John"
 let age = 30;       // declaring a variable called 'age' and assigning it the value 30
 const PI = 3.14;    // declaring a constant called 'PI' and assigning it the value 3.14
+
+Variables can also be declared without an initial value:
+var x;
+let y;
+const z;
