@@ -9,5 +9,5 @@ const PI = 3.14;    // declaring a constant called 'PI' and assigning it the val
 
 Variables can also be declared without an initial value:
 var x;
-let y;
-const z;
+const y;
+Let z;
