@@ -11,3 +11,4 @@ Variables can also be declared without an initial value:
 var x;
 const y;
 Let z;
+Normal
