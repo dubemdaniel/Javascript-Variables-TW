@@ -12,3 +12,5 @@ var x;
 const y;
 Let z;
 Normal
+
+js all a 
