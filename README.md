@@ -14,3 +14,4 @@ Let z;
 Normal
 
 js the  
+variable can be said to be a specific store for storing a specified item
