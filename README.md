@@ -15,3 +15,4 @@ Normal
 
 js the  
 variable can be said to be a specific store for storing a specified item
+Variable can be used to store both primitive values and objects
