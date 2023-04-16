@@ -17,3 +17,4 @@ js the
 variable can be said to be a specific store for storing a specified item
 Variable can be used to store both primitive values and objects
 There are specific and recommended ways of naming variables
+Variable names are not to start with a number
