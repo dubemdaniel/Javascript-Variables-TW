@@ -20,3 +20,4 @@ There are specific and recommended ways of naming variables
 Variable names are not to start with a number
 They can start with letters, underscore, and some symbols
 Let the variable name be related to the kind of item been stored 
+functions can also be stored in a variable 
