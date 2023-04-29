@@ -22,3 +22,4 @@ They can start with letters, underscore, and some symbols
 Let the variable name be related to the kind of item been stored 
 functions can also be stored in a variable 
 objects are also stored in a variable
+Variable can be declared using const, let and var
