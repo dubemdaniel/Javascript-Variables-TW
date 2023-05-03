@@ -25,3 +25,4 @@ objects are also stored in a variable
 Variable can be declared using const, let and var
 Variables are used almost everywhere on our codebase
 Variables exist not only in JavaScript but in all programming language 
+Variable stores different data types
