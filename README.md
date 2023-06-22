@@ -26,4 +26,4 @@ Variable can be declared using const, let and var
 Variables are used almost everywhere on our codebase
 Variables exist not only in JavaScript but in all programming language 
 Variable stores different data types
-Data types include (primitives) strings, numbers, boolean, null, undefined, objects, array, functions, etc
+Data types include (primitives) strings, numbers, boolean, null, undefined, (reference)objects, array, functions, etc
